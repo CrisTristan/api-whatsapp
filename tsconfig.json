@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "target": "ES2020",
+      "outDir": "./dist", // Specify the output folder for compiled JavaScript
+      "allowJs": true
+    },
+    "include": ["./src/*.ts"] // Specify the path to your TypeScript files
+}
